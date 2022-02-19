@@ -1,0 +1,6 @@
+2022/02/18-04:33:27.422 531 Reusing MANIFEST /home/m3rlin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/18-04:33:27.422 531 Recovering log #3
+2022/02/18-04:33:27.422 531 Reusing old log /home/m3rlin/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000003.log 
+2022/02/18-04:33:54.370 535 Level-0 table #5: started
+2022/02/18-04:33:54.380 535 Level-0 table #5: 3384316 bytes OK
+2022/02/18-04:33:54.381 535 Delete type=0 #3
